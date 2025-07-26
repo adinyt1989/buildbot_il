@@ -5,8 +5,8 @@ load_dotenv()
 
 class Config:
     # Telegram
-    BOT_TOKEN = os.getenv("BOT_TOKEN")
-    MODERATOR_BOT_TOKEN = os.getenv("MODERATOR_BOT_TOKEN")
+    BOT_TOKEN = os.getenv("7808266869:AAHuUMsVuGQWm5Gqa7k6moNYU0QR0yxtCCA")
+    MODERATOR_BOT_TOKEN = os.getenv("8349815170:AAHM1hGVm6Ett__bweDljnKBW9BYd8Je7pM")
 
     # Database
     DATABASE_URL = os.getenv("DATABASE_URL")
