@@ -2,6 +2,9 @@ aiogram==3.0.0b7
 sqlalchemy==2.0.20
 redis==4.5.5
 python-dotenv==1.0.0
+aiogram==2.25.1
+asyncpg==0.28.0  # Версия, совместимая с Python 3.12
+aiohttp==3.8.6   # Версия, совместимая с Python 3.12
 httpx==0.24.0
 reportlab==4.0.4
 apscheduler==3.10.1
